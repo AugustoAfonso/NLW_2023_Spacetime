@@ -6,9 +6,8 @@ module.exports = {
       fontFamily: {
         title: 'Roboto_700Bold',
         body: 'Roboto_400Regular',
-        alt: 'BaiJamjuree_700Bold',
+        alt: 'BaiJamjuree_400Regular',
       },
-
       colors: {
         gray: {
           50: '#eaeaea',
@@ -48,6 +47,6 @@ module.exports = {
         },
       },
     },
+    plugins: [],
   },
-  plugins: [],
 }
